@@ -93,6 +93,7 @@ Salesforce 製品のインプリでの受託開発・運用。
 - **プロジェクト詳細：**
   - Laravel, Node.js, TypeScript, APEX での API, バックエンド 開発
   - B2C Commerce Cloud を駆使した大規模 EC 開発
+  - スクラム開発・大規模スクラム開発での開発チーム管理・テックリード
 
 社内ツールの新規開発・運用。
 
