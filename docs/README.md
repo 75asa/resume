@@ -16,9 +16,9 @@
 <p>
 <a href="https://github.com/75asa" target="_blank"><img alt="Github@75asa" src="https://img.shields.io/badge/75asa-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/75asa_dev" target="_blank"><img alt="Twitter@75asa_dev" src="https://img.shields.io/badge/@75asa_dev-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://qiita.com/75asa" target="_blank"><img alt="Qiita@75asa" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
-<a href="https://zenn.dev/75asa" target="_blank"><img alt="Zenn@75asa" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-<a href="https://speakerdeck.com/75asa" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+<a href="https://qiita.com/75asa" target="_blank"><img alt="Qiita@75asa" src="https://img.shields.io/badge/75asa-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://zenn.dev/75asa" target="_blank"><img alt="Zenn@75asa" src="https://img.shields.io/badge/75asa-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://speakerdeck.com/75asa" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/75asa-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
 ---
@@ -153,30 +153,23 @@ Salesforce 製品のインプリでの受託開発・運用。
 
 #### その他
 
-- **type-challenges のメンバー（日本語ローカライズを担当）**
-  - [type-challenges](https://github.com/type-challenges/type-challenges)
-- **月 2PR を目標で気になる OSS への PR 作成**
-  - Hasura Console の TypeScript 化・Issue の対応
-  - Gatsby.js の TypeScript 化・ドキュメント翻訳
-  - Vue3 のドキュメント翻訳
+- **月 1PR を目標で気になる OSS への PR 作成**
+- Slack bolt-js, Node-SDK へのイシュー・ドキュメント整理
 
 ### 副業
 
-- **ソフトウェア受託開発**
-  - 担当：Amplify を駆使した SaaS のバックエンド実装
-  - 使用技術：JavaScript, TypeScript, React, DynamoDB, GraphQL, Lambda, Cognito, AppSync on AWS Amplify
-  - 同僚の紹介でジョインした会社の自社開発業務のサポート。バックエンドの実装を主に行う
+- **ソフトウェア開発**
+  - 担当: Amplify を駆使した SaaS のバックエンド実装
+  - 使用技術: JavaScript, TypeScript, React, DynamoDB, GraphQL, Lambda, Cognito, AppSync on AWS Amplify
+  - 沿革: 同僚の紹介でジョインした会社の自社開発業務のサポート。バックエンドの実装を主に行う
 
 ### 技術記事投稿
 
 - **Qiita**
-  - 2021/08 現在、143 記事、 16,364LGTM
   - [https://qiita.com/75asa](https://qiita.com/75asa)
 - **Zenn**
-  - 2021/08 現在 82 記事、 2,576LIKE
   - [https://zenn.dev/75asa](https://zenn.dev/75asa)
 - **note**
-  - 2020/04 現在 , 20 記事、 250 いいね
   - [https://note.com/tambourine_75](https://note.com/tambourine_75)
 
 ### 勉強会での登壇
