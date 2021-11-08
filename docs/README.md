@@ -29,13 +29,15 @@
 - Salesforce
   - Heroku Solution Architect Design
   - Slack App 開発
-  - SaleCloud, CommunityCloud や ExperienceCloud 等 Core 製品のカスタマイズ e.g. APEX, lwc
-  - B2C Commerce Cloud フロントエンド・バックエンドの開発・設計
-- JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
+  - SaleCloud, CommunityCloud や ExperienceCloud 等 Core 製品のカスタマイズ
+    - e.g. APEX, LWC and Salesforce function
+  - B2C Commerce Cloud フロントエンド・バックエンド・ジョブバッチの開発・設計
+- JavaScript / TypeScript + React / Vue.js でのフロントエンド開発
 - レガシーコードからのリファクタリング
 - TDD, DDD or Clean / Onion Architecture でのアプリケーション開発
 - 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラム、大規模スクラム（LaaS）の進行
+- アジャイル、スクラム、大規模スクラム（LaaS）の進行、開発チームでのリーダー
+- インターンや新卒メンバーのメンターなど
 
 ---
 
@@ -46,7 +48,6 @@
 <code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_JavaScript-Developer-I.png" height="100" alt="Salesforce Certified JavaScript Developer"></code>
 
 FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
-
 
 ---
 
@@ -66,6 +67,8 @@ FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
 ### フレームワーク・その他
 
 <p>
+  <img alt="Express" src="https://img.shields.io/badge/-Express-3b8d8?style=flat-square&logo=express&logoColor=white" />
+  <img alt="bolt.js" src="https://img.shields.io/badge/-Slack-93b8d8?style=flat-square&logo=Slack&logoColor=navy" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
@@ -210,6 +213,7 @@ Salesforce 製品のインプリでの受託開発・運用。
 - 新しい技術・分野などに抵抗はなく、学習しながらアウトプットをすることが得意です
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
 - バックエンドの開発が比較的得意ですが、フロントエンド、インフラ面への興味もあります
+- チームの底力をあげたり、開発力が向上する組織形成に最近は興味があります
 
 ---
 
