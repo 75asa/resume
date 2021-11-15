@@ -30,7 +30,7 @@
 - Salesforce
   - Heroku Solution Architect Design
   - Slack App 開発
-  - SaleCloud, CommunityCloud や ExperienceCloud 等 Core 製品のカスタマイズ
+  - SaleCloud, ServiceCloud や ExperienceCloud 等 Core 製品のカスタマイズ
     - e.g. APEX, LWC and Salesforce function
   - B2C Commerce Cloud フロントエンド・バックエンド・ジョブバッチの開発・設計
 - JavaScript / TypeScript + React / Vue.js でのフロントエンド開発
