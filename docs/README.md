@@ -15,28 +15,36 @@
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/75asa" target="_blank"><img alt="Github@75asa" src="https://img.shields.io/badge/75asa-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/75asa_dev" target="_blank"><img alt="Twitter@75asa_dev" src="https://img.shields.io/badge/@75asa_dev-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://qiita.com/75asa" target="_blank"><img alt="Qiita@75asa" src="https://img.shields.io/badge/75asa-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
-<a href="https://zenn.dev/75asa" target="_blank"><img alt="Zenn@75asa" src="https://img.shields.io/badge/75asa-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-<a href="https://speakerdeck.com/75asa" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/75asa-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+  <a href="https://github.com/75asa" target="_blank"><img alt="Github@75asa" src="https://img.shields.io/badge/75asa-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/75asa_dev" target="_blank"><img alt="Twitter@75asa_dev" src="https://img.shields.io/badge/@75asa_dev-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://qiita.com/75asa" target="_blank"><img alt="Qiita@75asa" src="https://img.shields.io/badge/75asa-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+  <a href="https://zenn.dev/75asa" target="_blank"><img alt="Zenn@75asa" src="https://img.shields.io/badge/75asa-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/75asa" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/75asa-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 保有スキル
 
-- Node.js w/ TypeScript でのバックエンド開発・設計
+- JavaScript
+  - TypeScript を用いた開発・型定義のリファクタ・設計
+  - Node.js w/ TypeScript でのバックエンド開発・設計
+  - NestJS w/ TypeScript でのバックエンド開発・設計
+  - React / Angular でのフロントエンド開発
 - Salesforce
   - Heroku Solution Architect Design
   - Slack App 開発
   - SaleCloud, ServiceCloud や ExperienceCloud 等 Core 製品のカスタマイズ
     - e.g. APEX, LWC and Salesforce function
-  - B2C Commerce Cloud フロントエンド・バックエンド・ジョブバッチの開発・設計
-- JavaScript / TypeScript + React / Vue.js でのフロントエンド開発
+  - B2C Commerce Cloud にて フロントエンド・バックエンド・ジョブバッチの開発・設計
 - レガシーコードからのリファクタリング
-- TDD, DDD or Clean / Onion Architecture でのアプリケーション開発
+- Arch
+  - TDD
+  - DDD
+  - Onion Arch
+  - CleanArchitecture
 - 勉強会、社内学習のコミュニティ形成
+- 継続可能な開発組織の文化づくり
 - アジャイル、スクラム、大規模スクラム（LaaS）の進行、開発チームでのリーダー
 - インターンや新卒メンバーのメンターなど
 
@@ -70,6 +78,7 @@ FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
 <p>
   <img alt="Express" src="https://img.shields.io/badge/-Express-3b8d8?style=flat-square&logo=express&logoColor=white" />
   <img alt="bolt.js" src="https://img.shields.io/badge/-Slack-93b8d8?style=flat-square&logo=Slack&logoColor=navy" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-CC341D?style=flat-square&logo=Angular&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
@@ -90,26 +99,34 @@ FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
 
 ### 株式会社タンバリン（2018/11〜現在）
 
-Salesforce 製品のインプリでの受託開発・運用。
+#### Salesforce 製品のインプリでの受託開発・運用。
 
-- **プロジェクト規模：**
+- **プロジェクト規模**
   - 平均 5〜9 人チームでのスクラム開発
-- **プロジェクト詳細：**
+- **プロジェクト詳細**
   - Laravel, Node.js, TypeScript, APEX での API, バックエンド 開発
   - B2C Commerce Cloud を駆使した大規模 EC 開発
   - スクラム開発・大規模スクラム開発での開発チーム管理・テックリード
+  - Heroku にて NestJS w/ Angular での 大規模 WEB App 開発
 
-社内ツールの新規開発・運用。
+#### 社内ツールの新規開発・運用。
 
 - **プロジェクト規模：**
   - 平均 1〜3 人チームでの開発
-- ## **プロジェクト詳細：**
-  - Laravel を使用した蔵書管理システムの開発
-  - Slack API x GAS でのインターン用勤怠打刻システムの開発・運用
-  - fondesk x Slack x GCP でメンションを自動でつけてくれるシステムの開発・運用
+- **プロジェクト詳細：**
+  - Laravel を使用した蔵書管理 WEB App の開発
+  - Slack API x [Google Apps Script a.k.a. GAS](https://workspace.google.co.jp/intl/ja/products/apps-script/) でのインターン用勤怠打刻システムの開発・運用
+  - [fondesk](https://www.fondesk.jp/) x Slack x GCP でメンションを自動でつけてくれるシステムの開発・運用
+    - [fondeSlack](https://github.com/75asa/fondeSlack)
   - Slack にある個々人の分報を一元化したタイムラインシステムの開発・運用
+    - [time-liner](https://github.com/75asa/time-liner)
   - Notion の投稿を Slack に通知する Notion Integration 開発・運用
+    - [notion-database-crawler](https://github.com/75asa/notion-database-crawler)
   - Kibela から Notion への移行ツール開発・運用
+    - [kibela-to-notion](https://github.com/75asa/kibela-to-notion)
+    - [Kibela から Notion に約 2 万+件の記事を移行するために移行ツールを作った話](https://zenn.dev/75asa/articles/kibela-to-notion)
+  - Notion のデータベースから定期的にランダムにページを選出してくれる Integration
+    - [Nextion](https://github.com/tam-bourine/Nextion)
 
 ---
 
@@ -165,10 +182,17 @@ Salesforce 製品のインプリでの受託開発・運用。
       <td><img alt="Issues" src="https://img.shields.io/github/issues/75asa/kibela-to-notion?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/75asa/kibela-to-notion?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/tam-bourine/Nextion"><b>Nextion</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tam-bourine/Nextion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tam-bourine/Nextion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tam-bourine/Nextion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tam-bourine/Nextion?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
-#### その他
+### その他
 
 - **月 1PR を目標で気になる OSS への PR 作成**
 - Slack bolt-js, Node-SDK へのイシュー・ドキュメント整理
