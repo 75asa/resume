@@ -56,7 +56,7 @@
 <code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_B2C-Commerce-Developer.png" height="100" alt="Salesforce Certified B2C Commerce Developer"></code>
 <code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_JavaScript-Developer-I.png" height="100" alt="Salesforce Certified JavaScript Developer"></code>
 
-FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
+### FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
 
 ---
 
@@ -239,6 +239,8 @@ FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
 - バックエンドの開発が比較的得意ですが、フロントエンド、インフラ面への興味もあります
 - チームの底力をあげたり、開発力が向上する組織形成に最近は興味があります
+- 持続可能で継続的な開発チームの構成に興味があります
+
 
 ---
 
