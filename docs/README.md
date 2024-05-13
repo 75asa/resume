@@ -59,6 +59,7 @@
 
 ### FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
 
+
 ---
 
 ## 技術スタック
@@ -184,11 +185,9 @@
   - Notion のデータベースから定期的にランダムにページを選出してくれる Integration
     - [Nextion](https://github.com/tam-bourine/Nextion)
 
----
 
 ## 業務外活動
 
-### OSS 活動
 
 #### 主要リポジトリ
 
@@ -196,10 +195,10 @@
   <thead>
     <tr>
       <td><b>Projects</b></td>
+      <td><b>Lang / FW</b></td>
       <td><b>Stars</b></td>
       <td><b>Forks</b></td>
       <td><b>Issues</b></td>
-      <td><b>Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -298,3 +297,4 @@
 ## 作成日
 
 `2024/05/13`
+
