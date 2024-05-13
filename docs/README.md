@@ -2,138 +2,192 @@
 
 ## 基本情報
 
-|key|value|
-|---|---|
-|氏名|川俣 涼（Kawamata Ryo）|
-|生年月日|1989/04/25|
-|居住地|茨城県|
-|最終学歴|立命館大学経営学部|
+| key      | value                  |
+| -------- | ---------------------- |
+| 氏名     | 名護 朝人 (NAGO Asato) |
+| 生年月日 | 1994/10/09             |
+| 居住地   | 大阪府                 |
+| 出身地   | 福岡県                 |
+| 最終学歴 | 立命館大学政策科学部   |
 
 ---
 
 ## 各種アカウント
+
 <p>
-<a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/KawamataRyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://qiita.com/ryo2132" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
-<a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-<a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+  <a href="https://github.com/75asa" target="_blank"><img alt="Github@75asa" src="https://img.shields.io/badge/75asa-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/75asa_dev" target="_blank"><img alt="Twitter@75asa_dev" src="https://img.shields.io/badge/@75asa_dev-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://qiita.com/75asa" target="_blank"><img alt="Qiita@75asa" src="https://img.shields.io/badge/75asa-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+  <a href="https://zenn.dev/75asa" target="_blank"><img alt="Zenn@75asa" src="https://img.shields.io/badge/75asa-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/75asa" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/75asa-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 保有スキル
 
-- JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
-- レガシーコードからモダンなフロントエンドへのリファクタリング
-- フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測など）
-- UT を基本とした保守性と再利用性を意識したコーディング
-- Ruby on Rails, Django でのサーバーサイド開発
+- JavaScript
+  - TypeScript を用いた開発・型定義のリファクタ・設計
+  - Node.js w/ TypeScript でのバックエンド開発・設計
+  - NestJS w/ TypeScript でのバックエンド開発・設計
+  - React / Angular でのフロントエンド開発
+- Salesforce
+  - Heroku Solution Architect Design
+  - Slack App 開発
+  - SaleCloud, ServiceCloud や ExperienceCloud 等 Core 製品のカスタマイズ
+    - e.g. APEX, LWC and Salesforce function
+  - B2C Commerce Cloud にて フロントエンド・バックエンド・ジョブバッチの開発・設計
+- レガシーコードからのリファクタリング
+- Architecture
+  - TDD
+  - DDD
+  - Onion Arch
+  - CleanArchitecture
 - 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラムの進行補助
+- 継続可能な開発組織の文化づくり
+- アジャイル、スクラム、大規模スクラム（LaaS）の進行、開発チームでのリーダー
+- インターンや新卒メンバーのメンターなど
+
+---
+
+## 保有資格
+
+<code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_Administrator.png" height="100" alt="Salesforce Certified Administrator"></code>
+<code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_B2C-Commerce-Developer.png" height="100" alt="Salesforce Certified B2C Commerce Developer"></code>
+<code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_JavaScript-Developer-I.png" height="100" alt="Salesforce Certified JavaScript Developer"></code>
+<code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/Certified_Heroku-Architect.png" height="100" alt="Salesforce Certified Heroku Archit"></code>
+
+### FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
+
 
 ---
 
 ## 技術スタック
 
 ### 言語
+
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+   <img alt="PHP" src="https://img.shields.io/badge/-PHP-009?style=flat-square&logo=PHP&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
+
 <p>
-<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-3b8d8?style=flat-square&logo=express&logoColor=white" />
+  <img alt="bolt.js" src="https://img.shields.io/badge/-Slack-93b8d8?style=flat-square&logo=Slack&logoColor=navy" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-CC341D?style=flat-square&logo=Angular&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
- <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
 
 ---
 
 ## 職務経歴詳細
 
-### LAPRAS株式会社（2021/03〜現在）
-AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
-開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計から実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演やフルリモート環境で気軽に質問できる bot 開発などを通して、良い組織作りへの貢献も行っている。
+### アクセンチュア株式会社（2021/01〜現在）
 
-※ 2023/03〜2024/03まで育児休業を取得
+※ 株式会社タンバリンの吸収合併により、アクセンチュア株式会社に所属。
+
+#### 官公庁 HP 大規模リプレイス
+
+- **プロジェクト規模**
+  - 平均 8〜12 人チーム WF 開発
+- **プロジェクト詳細**
+  - Java, JSP を用いたレガシーシステムのリプレイス
+  - フロントエンドリードとして参画
+
+#### 国内 EC アプリパッケージの海外版移植にあたる提案
+
+- **プロジェクト規模**
+  - 平均 8〜10 人チーム
+- **プロジェクト詳細**
+  - Fit & Gap 分析
+  - 要件定義
+  - エンジニアの知識を背景にした提案活動
+
+#### 大規模 EC サイトリプレイスによるマイページの設計・開発
+
+- **プロジェクト規模**
+  - 平均 5〜6 人チームでの WF 開発
+- **プロジェクト詳細**
+  - Next.js, バックエンド API に AWS Lambda を使用
+  - フロントエンドリードとして参画
+
+#### EC サイトの認証機能の設計・開発
+
+- **プロジェクト規模**
+  - 平均 3〜4 人チームでの WF 開発
+- **プロジェクト詳細**
+  - Auth0, Heroku, Salesforce B2C Commerce Cloud を利用
+  - 認証機能のレビュアーとして参画
+
+#### 社内ヘルプデスクアプリの提案・設計・受託開発・運用
+
+- **プロジェクト規模**
+  - 平均 4〜6 人チームでの WF 開発
+- **プロジェクト詳細**
+  - Auth0, Service Now API, Azure, Microsoft API を利用
+  - Next.js, NestJS での WEB App 開発
+  - FE, BE リードとして参画
+
+#### 官公庁のシステム開発提案・設計・受託開発
+
+- **プロジェクト規模**
+  - 平均 8〜12 人チームでの WF 開発
+- **プロジェクト詳細**
+  - Heroku Connect を用いた Salesforce との連携
+  - Angular, NestJS での WEB App 開発・設計
+  - FE チームリードとして参画
+
+### 株式会社タンバリン（2018/11〜2021/12）
+
+#### Salesforce 製品のインプリ開発・運用。
+
+- **プロジェクト規模**
+  - 平均 5〜9 人チームでのスクラム開発
+- **プロジェクト詳細**
+  - Laravel, Node.js, TypeScript, APEX での API, バックエンド 開発
+  - B2C Commerce Cloud を駆使した大規模 EC 開発
+  - スクラム開発・大規模スクラム開発での開発チーム管理・テックリード
+  - Heroku にて NestJS w/ Angular での 大規模 WEB App 開発
+
+#### 社内ツールの新規開発・運用。
 
 - **プロジェクト規模：**
-    - 平均 2〜5 人チームでのスクラム開発
+  - 平均 1〜3 人チームでの開発
 - **プロジェクト詳細：**
-    - Vue.js での SPA 開発
-    - Python, Django での API 開発
-    - ライブラリアップデートの仕組み作り
-    - メールアドレス認証機能の構築
-    - VuePress + esa によるドキュメントサイトの構築
-    - E2Eテストの環境整備
-- **その他：**
-    - フロントエンド改善チームのリード（改善チームの組成、課題の整理・実装）
-    - フロントエンド開発基盤の整備（ビジュアルリグレッションテスト、パフォーマンス計測基盤の導入など）
-    - フロントエンド勉強会の主催
-    - エンジニア採用（採用広報、選考活動）
+  - Laravel を使用した蔵書管理 WEB App の開発
+  - Slack API x [Google Apps Script a.k.a. GAS](https://workspace.google.co.jp/intl/ja/products/apps-script/) でのインターン用勤怠打刻システムの開発・運用
+  - [fondesk](https://www.fondesk.jp/) x Slack x GCP でメンションを自動でつけてくれるシステムの開発・運用
+    - [fondeSlack](https://github.com/75asa/fondeSlack)
+  - Slack にある個々人の分報を一元化したタイムラインシステムの開発・運用
+    - [time-liner](https://github.com/75asa/time-liner)
+  - Notion の投稿を Slack に通知する Notion Integration 開発・運用
+    - [notion-database-crawler](https://github.com/75asa/notion-database-crawler)
+  - Kibela から Notion への移行ツール開発・運用
+    - [kibela-to-notion](https://github.com/75asa/kibela-to-notion)
+    - [Kibela から Notion に約 2 万+件の記事を移行するために移行ツールを作った話](https://zenn.dev/75asa/articles/kibela-to-notion)
+  - Notion のデータベースから定期的にランダムにページを選出してくれる Integration
+    - [Nextion](https://github.com/tam-bourine/Nextion)
 
-### 弥生株式会社（2020/07〜2021/02）
-
-※ 株式会社 Misoca の吸収合併による転籍。業務内容は株式会社 Misoca と変わらず。
-
-### 株式会社Misoca（2019/04〜2020/06）
-
-クラウド請求書管理サービス Misoca の開発・運用。
-- **プロジェクト規模：**
-    - 平均 2〜4 人チームでのアジャイル開発
-- **役割：**
-    - 機能検討（インセプションデッキ作成 etc）、設計、コーディング、レビュー
-- **プロジェクト詳細：**
-    - TypeScript + Vue.js での SPA 開発
-    - Ruby on Rails でのフロント・モバイルアプリ向け API の開発
-    - フロント全コードの JavaScript から TypeScript へのリプレイス
-    - レガシーコード（jQuery）から Vue.js へのリファクタリング
-    - GraphQL, Vue Composition API を使った新機能の開発
-    - 社外・社内勉強会の企画運営
-
-### エムスリー株式会社（2018/02〜2019/03）
-
-医療従事者向け総合医療情報サービス m3.com の開発・運用。
-- **プロジェクト規模：**
-    - 平均 1〜2 人チームでの開発
-- **役割：**
-    - コーディング、レビュー、チームビルディング
-- **プロジェクト詳細：**
-    - Java 独自フレームワークのレガシーシステムから Spring Boot へのリニューアル
-    - サーバーサイド Kotlin の導入、Vue.js での SPA サイト構築
-    - Storybook の導入、コンポーネントライブラリの作成
-
-### 地方消防本部（2012/04〜2017/12）
-
-消防士として消防活動、救急活動に従事する傍ら救急報告書の作成支援システムを自作・運用。
-- **プロジェクト規模：**
-    - 個人開発
-- **役割：**
-    - 機能検討、設計、デザイン、コーディング、導入交渉
-- **プロジェクト詳細：**
-    - Electron + Vue での入力支援システム、Excel VBA での報告書エラーチェッカーの開発
-        - 年間で 4,000 時間の業務時間削減に貢献
-        - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
-
----
 
 ## 業務外活動
 
-### OSS・個人開発活動
 
 #### 主要リポジトリ
 
@@ -149,166 +203,98 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/kawamataryo/chikamichi"><b>Chikamichi</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/75asa/time-liner"><b>time-liner</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/75asa/time-liner?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/75asa/time-liner?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/75asa/time-liner?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/75asa/time-liner?style=flat-square&labelColor=343b41"/></td>
+	  </tr>
+    <tr>
+      <td><a href="https://github.com/75asa/fondeSlack"><b>fondeSlack</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/75asa/fondeSlack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/75asa/fondeSlack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/75asa/fondeSlack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/75asa/fondeSlack?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kawamataryo/sky-follower-bridge"><b>sky-follower-bridge</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-61DBFB?style=flat-square&logo=react&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>Vue Word Highlighter</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>suppress ts errors</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/github-trending-bot"><b>GitHub Trending Bot</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/sync-raise-hand"><b>Sync Raise hand</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/v-change-tags-order"><b>V Change Tags Order</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/animated-emoji-gen"><b>Animated emoji gen</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/75asa/notion-database-crawler"><b>notion-database-crawler</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/75asa/notion-database-crawler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/75asa/notion-database-crawler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/75asa/notion-database-crawler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/75asa/notion-database-crawler?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/kawamataryo/copy-python-path"><b>Copy Python Path</b></a></td>
-      <td><img alt="Python" src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=Python&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/alfred-imagemin"><b>Alfred Imagemin</b></a></td>
-      <td><img alt="JavaScript" src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/trackrecords/slack-notion-unfurl-app"><b>slack-notion-unfurl-app</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/trackrecords/slack-notion-unfurl-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/trackrecords/slack-notion-unfurl-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/trackrecords/slack-notion-unfurl-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/trackrecords/slack-notion-unfurl-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kawamataryo/tell-me-bot"><b>Tell me bot</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/75asa/kibela-to-notion"><b>kibela-to-notion</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/75asa/kibela-to-notion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/75asa/kibela-to-notion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/75asa/kibela-to-notion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/75asa/kibela-to-notion?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/copy-git-link"><b>copy-git-link</b></a></td>
-      <td><img alt="Kotlin" src="https://img.shields.io/badge/-0095D5?style=flat-square&logo=Kotlin&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/schema2type"><b>Schema2type</b></a></td>
-      <td><img alt="Ruby" src="https://img.shields.io/badge/-CC342D?style=flat-square&logo=Ruby&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
+    <tr>
+      <td><a href="https://github.com/tam-bourine/Nextion"><b>Nextion</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tam-bourine/Nextion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tam-bourine/Nextion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tam-bourine/Nextion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tam-bourine/Nextion?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
-#### その他 OSS への後見
-- **type-challenges のメンバー（日本語ローカライズを担当）**
-    - [type-challenges](https://github.com/type-challenges/type-challenges)
-- Raycast 拡張機能の開発
-  - [TinyPNG](https://www.raycast.com/kawamataryo/tinypng)
-  - [esa Search](https://www.raycast.com/kawamataryo/esa-search)
-- Hasura Console の TypeScript 化・Issue の対応
-- Gatsby.js の TypeScript 化・ドキュメント翻訳
-- Vue3 のドキュメント翻訳
-
 ### 副業
 
-- **鍼灸院専門の Web デザイン事業**
-    - 担当：営業・企画・デザイン・実装
-    - 使用技術：PHP, JavaScript, WordPress, Nuxt.js, GraphCMS
-    - 妻の仕事（鍼灸師）のホームページを作成したことでスタート。口コミ、web サイト経由で受注。契約交渉から実装・保守管理まですべてを行う
-- **ソフトウェア受託開発**
-    - 担当：実装
-    - 使用技術：JavaScript, TypeScript, Vue.js, React, Firebase
-    - 元同僚が起業した会社の受託開発業務のサポート。フロントエンドの実装を主に行う
+- **クリニック向け SaaS App**
+
+  - 担当: Amplify を駆使した SaaS のバックエンド実装
+  - 使用技術: JavaScript, TypeScript, React, DynamoDB, GraphQL, Lambda, Cognito, AppSync on AWS Amplify
+  - 沿革: 同僚の紹介でジョインした会社の自社開発業務のサポート。バックエンド（GraphQL, 認証）の実装を主に行う
+
+- **社内 Wiki WebApp**
+  - 担当: フロント・バックエンド実装
+  - 使用技術: JavaScript, TypeScript, Next.js, tRPC, remirror
+  - 沿革: 元同僚の会社の自社開発業務のサポート。エディタの独自実装や記事管理に関するバックエンドの実装を主に行う
 
 ### 技術記事投稿
 
-- **Zenn**
-    - サービススタートから投稿を開始。2024/04 現在 112 記事、 8,010LIKE
-    - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
 - **Qiita**
-    - 消防士時代から投稿を続け 2022/10 現在、143 記事、 17,551LGTM
-    - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
-- **note**
-    - 主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね
-    - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
+  - [https://qiita.com/75asa](https://qiita.com/75asa)
+- **Zenn**
+  - [https://zenn.dev/75asa](https://zenn.dev/75asa)
 
-### 登壇履歴
+### 勉強会での登壇
 
-- [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
-
-### 勉強会の主催
-
-- **茨城県水戸市にて勉強会を企画・運営**
-    - Ibaraki.dev（開催回数 50 回、 メンバー 102 人）
-    - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
-- **社内・社外勉強会の企画・運営**
-    - もくテク powerd by Misoca
-    - フロントエンド輪読回（Vue Composition API ドキュメント , JavaScript Promise の本輪読回、 Jest 公式ドキュメント、 TypeScript 公式ドキュメント）
-    - Go ではじめるインタプリタ輪読回
-
-### その他
-
-- **Podcast**
-  - [しがないラジオ sp.91【ゲスト: KawamataRyo】楽しい元消防士がエンジニア転職を決意した理由、そして挫折と復活](https://shiganai.org/ep/sp91-KawamataRyo)
-- **YouTube**
-  - [消防士からエンジニアへ（ゲスト：川俣さん） #エンジニアと人生 Vol.28](https://www.youtube.com/watch?v=bP8hTmGixuI&t=1587s)
-- **JobPics**
-- - [消防士からエンジニアへ、究極の「未経験転職」3つのポイント | JobPicks](https://job.newspicks.com/articles/849)
+- **Node 学園関西（2020/02）**
+  - 分報の TL を SlackBoltFramework でさくっと作ってみた
+  - [https://speakerdeck.com/75asa/fen-bao-falsetlwoslackboltframeworkdesakututozuo-tutemita](https://speakerdeck.com/75asa/fen-bao-falsetlwoslackboltframeworkdesakututozuo-tutemita)
+- **他登壇資料**
+  - [https://speakerdeck.com/75asa](https://speakerdeck.com/75asa)
 
 ---
 
 ## 意欲・興味
-- フロントエンドだけではなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、学習しながらアウトプットをすることが得意です
-- ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
-- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、パフォーマンスが出せると感じています
+
+- 少人数チームで小さく早くリリースを行い、フィードバックを受けながら改善のサイクルを回していく開発スタイルを好みます
+- 新しい技術・分野などに抵抗はなく、学習しながらアウトプットをすることが得意です
+- バックエンドの開発が比較的得意ですが、フロントエンド、インフラ面への興味もあります
+- 持続可能で継続的な開発チームの構成に興味があります
 
 ---
 
 ## 希望条件
-- 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
-- 少人数チームで小さく素早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
+
+- 大阪在住のため、フルリモートワークでの勤務を希望します（月数回の出社等は可）
+  - 大阪にオフィスがある場合は週に 1 回程度は勤務可能
 - ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだと良いです
-- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
+
+---
+
+## 作成日
+
+`2024/05/13`
+
